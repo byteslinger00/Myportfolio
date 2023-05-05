@@ -12,7 +12,7 @@ const HeaderSocials = () => {
         <FaGithub />
       </a>
       <a
-        href="https://t.me/brooksMiracle"
+        href="https://t.me/miraclePapoy"
         target="_blank"
         rel="noreferrer"
       >
