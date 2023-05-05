@@ -10,7 +10,7 @@
 
   > This is personal portfolio website using MERN stack.
   ## Live Demo
-  - [Live Demo](https://brooks-miracle-blog.web.app/)
+  - [Live Demo](https://papoy-dev.web.app/)
 
 # Getting Started
   ## Prerequisites:
@@ -20,8 +20,8 @@
 
   ## Steps to follow:
     - Choose a folder in your local machine where you want this repository to be copied
-    - Clone this [repository](https://github.com/PapoyDev/portfolio) to your local machine 
-      -> git clone git@github.com:PapoyDev/portfolio.git
+    - Clone this [repository](https://github.com/PapoyDev/MyPortfolio) to your local machine 
+      -> git clone git@github.com:PapoyDev/MyPortfolio.git
     - Navigate to `cd portfolio`  directory.
     - To install all the app dependencies on the command line run
       -> npm install
@@ -34,7 +34,7 @@
 
   ## 🤝 Contributing
     - Contributions, issues, and feature requests are welcome!
-    - Feel free to check the [issues page](https://github.com/PapoyDev/portfolio/issues).
+    - Feel free to check the [issues page](https://github.com/PapoyDev/MyPortfolio/issues).
 
 # Show your support
   Give a ⭐ if you like this project!
